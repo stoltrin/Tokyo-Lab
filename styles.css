@@ -1,0 +1,26 @@
+body{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+title{
+    filter: drop-shadow(2px 2px);
+    filter: blur(1px);
+    background-color: #0f6a9e;
+}
+section{
+    font-size: 20px;
+}
+.element{
+    box-shadow: 2px 2px;
+    offset: 2px;
+    filter: blur(2px 2px);
+    color: rgb(.5, .5,.5);
+}
+div.figure{
+    font: rgb(0, 58, 66);
+}
+footer{
+    text-align: center;
+}
